@@ -4,7 +4,7 @@
   "description": "Markets dashboard with Shariah compliance screening, charts, and price alerts",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'No build needed'",
+    "build": "[my-framework] build --output public",
     "start": "python3 -m http.server 3000"
   },
   "keywords": ["markets", "crypto", "dashboard", "shariah-compliant"],
