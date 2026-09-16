@@ -1,0 +1,13 @@
+{
+  "name": "arbah-markets",
+  "version": "1.0.0",
+  "description": "Markets dashboard with Shariah compliance screening, charts, and price alerts",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build needed'",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": ["markets", "crypto", "dashboard", "shariah-compliant"],
+  "author": "gulamsaif",
+  "license": "MIT"
+}
